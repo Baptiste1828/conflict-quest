@@ -1,3 +1,3 @@
-# conflict-quest
+# conflict-quest LOCAL
 
 conflict resolution training
