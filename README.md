@@ -1,3 +1,3 @@
-# conflict-quest
+# conflict-quest REMOTE
 
 conflict resolution training
